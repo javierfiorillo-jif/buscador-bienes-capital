@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Buscador de Bienes de Capital | Decreto 379/01</title>
+<script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
+<style>
+:root{--bg:#f7f5f0;--panel:#fff;--text:#1a1a1a;--muted:#6b6350;--line:#e5dfc8;--brand:#7a6008;--brand2:#b8930f;--accent:#fdf6e3;--ok:#16a34a;--ok-bg:#dcfce7;--gray:#6b7280;--gray-bg:#f3f4f6;--radius:14px;--shadow:0 6px 24px rgba(122,96,8,.08);--hero-from:#6b5507;--hero-to:#c9a30e;--transition:.25s ease}
+html.dark{--bg:#1a1710;--panel:#2a2518;--text:#f5f0e0;--muted:#a89d80;--line:#3d3520;--accent:#2a2518;--shadow:0 6px 24px rgba(0,0,0,.4);--hero-from:#3d3008;--hero-to:#6b5507}
+*{box-sizing:border-box;margin:0}body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);transition:background var(--transition),color var(--transition)}.wrap{max-width:1400px;margin:0 auto;padding:18px 22px 36px}
+.hero{background:linear-gradient(135deg,var(--hero-from),var(--hero-to));color:#fff;border-radius:20px;padding:24px 28px;box-shadow:var(--shadow);margin-bottom:16px;position:relative;overflow:hidden}.hero::after{content:'';position:absolute;width:340px;height:340px;border-radius:50%;background:rgba(255,255,255,.06);top:-100px;right:-50px}.hero-top{display:flex;align-items:center;gap:14px;margin-bottom:5px}.hero-logo{height:44px;filter:brightness(0) invert(1);flex-shrink:0}.hero h1{font-size:22px;line-height:1.2}.hero p{opacity:.92;line-height:1.5;max-width:900px;font-size:13px}.theme-toggle{position:absolute;top:16px;right:18px;background:rgba(255,255,255,.15);border:none;color:#fff;border-radius:999px;width:36px;height:36px;font-size:16px;cursor:pointer}.theme-toggle:hover{background:rgba(255,255,255,.25)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;margin-bottom:14px}.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow)}.card .lbl{font-size:10px;color:var(--muted);margin-bottom:4px;text-transform:uppercase;letter-spacing:.4px}.card .val{font-size:22px;font-weight:800;color:var(--brand)}
+.notice{padding:12px 16px;border:1px solid #e5dfc8;background:#fdf6e3;color:#78621d;border-radius:var(--radius);margin-bottom:14px;line-height:1.4;font-size:12px}html.dark .notice{background:#2a2518;border-color:#3d3520;color:#d4b94e}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}.toolbar{display:grid;grid-template-columns:2fr 1fr .6fr auto auto;gap:8px;padding:12px 14px;margin-bottom:14px;align-items:end}@media(max-width:900px){.toolbar{grid-template-columns:1fr 1fr}}@media(max-width:600px){.toolbar{grid-template-columns:1fr}}
+label{display:block;font-size:10px;color:var(--muted);margin-bottom:3px;font-weight:700;text-transform:uppercase;letter-spacing:.3px}input,select{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--text);font-size:12px}input:focus,select:focus{outline:none;border-color:var(--brand2)}button{border:none;border-radius:10px;padding:8px 14px;font-weight:700;cursor:pointer;font-size:11px}.btn-p{background:var(--brand);color:#fff}.btn-p:hover{background:var(--brand2)}.btn-s{background:var(--accent);color:var(--brand)}
+.layout{display:grid;grid-template-columns:2fr .8fr;gap:14px;align-items:start}@media(max-width:1000px){.layout{grid-template-columns:1fr}.detail-panel{position:static!important}}
+.table-wrap{overflow:hidden}.table-scroll{overflow:auto;max-height:74vh}table{width:100%;border-collapse:collapse}thead th{position:sticky;top:0;z-index:3;background:var(--accent);color:var(--brand);text-align:left;padding:9px 8px;font-size:10px;text-transform:uppercase;letter-spacing:.3px;border-bottom:2px solid var(--line);white-space:nowrap}html.dark thead th{background:#2a2518}tbody td{padding:8px;border-bottom:1px solid var(--line);vertical-align:top;font-size:12px}tbody tr{cursor:pointer;transition:background .15s}tbody tr:hover{background:var(--accent)}tbody tr.active{background:#fef3c7}html.dark tbody tr.active{background:#3d3520}code{background:var(--gray-bg);padding:2px 5px;border-radius:5px;font-size:10px;border:1px solid var(--line)}html.dark code{background:#3d3520}
+.badge{display:inline-flex;align-items:center;gap:3px;padding:3px 8px;border-radius:999px;font-size:10px;font-weight:700;white-space:nowrap}.badge-ok{background:#dcfce7;color:#16a34a;border:1px solid #86efac}html.dark .badge-ok{background:#052e16;border-color:#166534}
+.pager{display:flex;align-items:center;justify-content:center;gap:8px;padding:9px;border-top:1px solid var(--line);font-size:11px;color:var(--muted)}.detail-panel{padding:14px;position:sticky;top:14px}.detail-panel h2{font-size:16px;margin-bottom:10px;color:var(--brand)}.kv{display:grid;grid-template-columns:130px 1fr;gap:4px 8px;margin-bottom:10px}.kv .k{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.3px}.kv .v{font-size:12px;word-break:break-word}.mini{font-size:11px;color:var(--muted)}.footer{margin-top:16px;padding:12px;text-align:center;font-size:10px;color:var(--muted);line-height:1.4;display:flex;flex-direction:column;align-items:center;gap:6px}.footer-logo{height:22px;opacity:.4}
+</style>
+</head>
+<body>
+<div class="wrap">
+<section class="hero">
+  <button class="theme-toggle" id="themeBtn" title="Modo oscuro / claro">🌙</button>
+  <div class="hero-top">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Banco_Naci%C3%B3n.svg" alt="BNA" class="hero-logo"/>
+    <h1>Buscador de Bienes de Capital por posición arancelaria | Decreto 379/01</h1>
+  </div>
+  <p>Herramienta interna del Banco de la Nación Argentina. Listado de posiciones NCM que califican como Bienes de Capital según el Decreto 379/01 (IF-2022-26048694-APN-SIECYGCE#MDP). Si una NCM figura en este listado, es Bien de Capital.</p>
+</section>
+<section class="cards">
+  <div class="card"><div class="lbl">Total posiciones</div><div class="val" id="cTotal">—</div></div>
+  <div class="card"><div class="lbl">Resultados visibles</div><div class="val" id="cVis">—</div></div>
+  <div class="card"><div class="lbl">Con referencia</div><div class="val" id="cRef">—</div></div>
+  <div class="card"><div class="lbl">Rango NCM</div><div class="val" id="cRange" style="font-size:13px">—</div></div>
+</section>
+<div class="notice"><strong>📋 Decreto 379/01:</strong> las posiciones listadas corresponden al Anexo (IF-2022-26048694). Si una NCM figura aquí, califica como <strong>Bien de Capital</strong>. Las referencias indican excepciones o condiciones especiales aplicables.</div>
+<section class="panel toolbar">
+  <div><label for="q">Buscar por NCM</label><input id="q" placeholder="Ej.: 8429, 8501, 9018…"/></div>
+  <div><label for="fRef">Referencia</label><select id="fRef"><option value="">Todas</option><option value="sin">Sin referencia</option><option value="(1)">(1) Exc. partes</option><option value="(2)">(2) Exc. unid. compactas</option><option value="(3)">(3) Exc. cap ≤8,5kg</option><option value="(4)">(4) Exc. uso doméstico</option><option value="(5)">(5) Exc. partes herram.</option><option value="(6)">(6) Exc. bolsa/tubulad.</option><option value="(7)">(7) Exc. bañeras hidrom.</option><option value="(8)">(8) Exc. pot ≤125W</option><option value="(9)">(9) Solo aire ac >30k</option><option value="(10)">(10) Exc. automotriz</option></select></div>
+  <div><label for="fSize">Filas</label><select id="fSize"><option value="50">50</option><option value="100" selected>100</option><option value="250">250</option><option value="999">Todas</option></select></div>
+  <div><label>&nbsp;</label><div style="display:flex;gap:4px"><button class="btn-p" id="btnCsv">📥CSV</button><button class="btn-p" id="btnXlsx">📥XLSX</button></div></div>
+  <div><label>&nbsp;</label><button class="btn-s" id="btnClear">Limpiar</button></div>
+</section>
+<section class="layout">
+  <div class="panel table-wrap"><div class="table-scroll" id="ts"><table><thead><tr><th>NCM</th><th>Bien de Capital</th><th>Referencia</th><th>Pág.</th></tr></thead><tbody id="tb"></tbody></table></div><div class="pager"><button class="btn-s" id="pp">◀</button><span id="pi">—</span><button class="btn-s" id="pn">▶</button></div></div>
+  <aside class="panel detail-panel"><h2>Ficha de posición</h2><div class="mini">Hacé clic en una fila para ver el detalle.</div><div id="det"></div></aside>
+</section>
+<div class="footer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Banco_Naci%C3%B3n.svg" alt="BNA" class="footer-logo"/><span>Banco de la Nación Argentina · Decreto 379/01 · Bienes de Capital</span></div>
+</div>
+<script>
+const $=id=>document.getElementById(id);const norm=s=>(s||'').toLowerCase();
+let items=[],flt=[],pg=0,sel=null;
+function iT(){if(localStorage.getItem('bk-t')==='dark')document.documentElement.classList.add('dark');uB()}
+function tT(){document.documentElement.classList.toggle('dark');localStorage.setItem('bk-t',document.documentElement.classList.contains('dark')?'dark':'light');uB()}
+function uB(){$('themeBtn').textContent=document.documentElement.classList.contains('dark')?'☀️':'🌙'}
+function af(){const q=norm($('q').value),ref=$('fRef').value;flt=items.filter(x=>{const oQ=!q||norm(x.ncm).includes(q)||norm(x.codigo_sin_puntos).includes(q);const oR=!ref||(ref==='sin'?!x.referencia:(x.referencia||'').includes(ref));return oQ&&oR});pg=0;render()}
+function ps(){return Number($('fSize').value)||100}function tp(){return Math.max(1,Math.ceil(flt.length/ps()))}
+function render(){$('cVis').textContent=flt.length;const s=pg*ps(),e=Math.min(s+ps(),flt.length),rows=flt.slice(s,e);$('pi').textContent=`${pg+1}/${tp()} — ${flt.length}`;$('tb').innerHTML=rows.map(x=>`<tr data-n="${x.ncm}" class="${sel===x.ncm?'active':''}"><td><code>${x.ncm}</code></td><td><span class="badge badge-ok">✅ Sí</span></td><td>${x.referencia||'—'}</td><td>${x.pagina_pdf}</td></tr>`).join('');$('tb').querySelectorAll('tr').forEach(tr=>{tr.addEventListener('click',()=>{sel=tr.dataset.n;const it=rows.find(r=>r.ncm===sel);sD(it);$('tb').querySelectorAll('tr').forEach(r=>r.classList.toggle('active',r.dataset.n===sel))})});if(rows.length&&!rows.find(r=>r.ncm===sel)){sel=rows[0].ncm;sD(rows[0]);$('tb').querySelector('tr')?.classList.add('active')}}
+function sD(x){if(!x){$('det').innerHTML='<div class="mini">Sin selección.</div>';return}$('det').innerHTML=`<div style="margin:8px 0"><span class="badge badge-ok">✅ Es Bien de Capital</span></div><div class="kv"><div class="k">NCM</div><div class="v"><code>${x.ncm}</code></div><div class="k">Código sin puntos</div><div class="v"><code>${x.codigo_sin_puntos}</code></div><div class="k">Referencia</div><div class="v">${x.referencia||'Sin referencia'}</div><div class="k">Detalle referencia</div><div class="v" style="font-size:11px">${x.referencia_texto||'No aplica'}</div><div class="k">Página PDF</div><div class="v">${x.pagina_pdf}</div><div class="k">Fuente</div><div class="v">Decreto 379/01 — IF-2022-26048694</div></div>`}
+function eC(){const b='\uFEFF',h=['NCM','Codigo','BienDeCapital','Referencia','RefTexto','PagPDF'];const esc=v=>{const s=(v??'').toString().replace(/"/g,'""');return'"'+s+'"'};const l=[h.join(';')];flt.forEach(r=>l.push([r.ncm,r.codigo_sin_puntos,'Sí',r.referencia,r.referencia_texto,r.pagina_pdf].map(esc).join(';')));dl('bienes_capital.csv',b+l.join('\r\n'),'text/csv;charset=utf-8;')}
+function eX(){if(typeof XLSX==='undefined'){alert('SheetJS no cargó.');return}const rows=flt.map(r=>({NCM:r.ncm,Codigo:r.codigo_sin_puntos,Bien_Capital:'Sí',Referencia:r.referencia,Ref_Texto:r.referencia_texto,Pag_PDF:r.pagina_pdf}));const ws=XLSX.utils.json_to_sheet(rows);const wb=XLSX.utils.book_new();XLSX.utils.book_append_sheet(wb,ws,'BienesCapital');XLSX.writeFile(wb,'bienes_capital.xlsx')}
+function dl(n,c,t){const b=new Blob([c],{type:t});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download=n;document.body.appendChild(a);a.click();a.remove();URL.revokeObjectURL(u)}
+async function init(){iT();$('themeBtn').addEventListener('click',tT);try{const r=await fetch('bienes_capital_ncm.json');const d=await r.json();items=d.items||[];$('cTotal').textContent=d.estadisticas?.total_posiciones||items.length;$('cRef').textContent=d.estadisticas?.con_referencia||0;$('cRange').textContent=`${d.estadisticas?.primer_codigo||'—'} … ${d.estadisticas?.ultimo_codigo||'—'}`;af();['q','fRef','fSize'].forEach(id=>{$(id).addEventListener('input',af);$(id).addEventListener('change',af)});$('btnClear').addEventListener('click',()=>{$('q').value='';$('fRef').value='';$('fSize').value='100';af()});$('pp').addEventListener('click',()=>{if(pg>0){pg--;render();$('ts').scrollTo(0,0)}});$('pn').addEventListener('click',()=>{if(pg<tp()-1){pg++;render();$('ts').scrollTo(0,0)}});$('btnCsv').addEventListener('click',eC);$('btnXlsx').addEventListener('click',eX)}catch(err){$('tb').innerHTML=`<tr><td colspan="4" style="color:#dc2626">No se pudo cargar bienes_capital_ncm.json: ${err}</td></tr>`}}
+init();
+</script>
+</body>
+</html>

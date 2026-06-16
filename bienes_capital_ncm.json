@@ -1,0 +1,6061 @@
+{
+  "metadata": {
+    "fuente": "Anexo al Decreto 379/01",
+    "documento": "IF-2022-26048694-APN-SIECYGCE#MDP",
+    "fecha_documento": "2022-03-18",
+    "organismo": "Secretaría de Industria, Economía del Conocimiento y Gestión Comercial Externa - Ministerio de Desarrollo Productivo",
+    "descripcion": "Listado de posiciones arancelarias NCM que califican como Bienes de Capital"
+  },
+  "referencias": {
+    "(1)": "Excepto partes.",
+    "(2)": "Excepto unidades compactas prefabricadas, sin unidad condensadora.",
+    "(3)": "Excepto las con capacidad, expresada en peso de ropa seca, inferior o igual a 8,5 kg.",
+    "(4)": "Excepto de uso doméstico.",
+    "(5)": "Excepto las partes de herramientas con motor eléctrico incorporado.",
+    "(6)": "Excepto bolsa y tubuladuras de material plástico, incluso con vías de acceso lateral, dosificador mecánico automático, dispositivos de obturación y piezas insersoras en ambos extremos presentado en una envuelta estéril.",
+    "(7)": "Excepto bañeras para hidromasaje.",
+    "(8)": "Excepto de potencia inferior o igual a 125 W.",
+    "(9)": "Solamente cuando se destinen a equipos de aire acondicionado de más de 30.000 frigorías/h.",
+    "(10)": "En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz."
+  },
+  "estadisticas": {
+    "total_posiciones": 754,
+    "primer_codigo": "7308.10.00",
+    "ultimo_codigo": "9406.90.10",
+    "con_referencia": 36
+  },
+  "items": [
+    {
+      "ncm": "7308.10.00",
+      "codigo_sin_puntos": "73081000",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "7308.20.00",
+      "codigo_sin_puntos": "73082000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "7309.00.10",
+      "codigo_sin_puntos": "73090010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "7309.00.90",
+      "codigo_sin_puntos": "73090090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8207.30.00",
+      "codigo_sin_puntos": "82073000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8401.10.00",
+      "codigo_sin_puntos": "84011000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8401.20.00",
+      "codigo_sin_puntos": "84012000",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8402.11.00",
+      "codigo_sin_puntos": "84021100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8402.12.00",
+      "codigo_sin_puntos": "84021200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8402.19.00",
+      "codigo_sin_puntos": "84021900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8402.20.00",
+      "codigo_sin_puntos": "84022000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8403.10.90",
+      "codigo_sin_puntos": "84031090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8404.10.10",
+      "codigo_sin_puntos": "84041010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8404.10.20",
+      "codigo_sin_puntos": "84041020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8404.20.00",
+      "codigo_sin_puntos": "84042000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8405.10.00",
+      "codigo_sin_puntos": "84051000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8406.10.00",
+      "codigo_sin_puntos": "84061000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8406.81.00",
+      "codigo_sin_puntos": "84068100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8406.82.00",
+      "codigo_sin_puntos": "84068200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8406.90.19",
+      "codigo_sin_puntos": "84069019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8406.90.29",
+      "codigo_sin_puntos": "84069029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8406.90.90",
+      "codigo_sin_puntos": "84069090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8407.21.10",
+      "codigo_sin_puntos": "84072110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8407.21.90",
+      "codigo_sin_puntos": "84072190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8407.29.10",
+      "codigo_sin_puntos": "84072910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8407.29.90",
+      "codigo_sin_puntos": "84072990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8407.90.00",
+      "codigo_sin_puntos": "84079000",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8408.10.10",
+      "codigo_sin_puntos": "84081010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8408.10.90",
+      "codigo_sin_puntos": "84081090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8408.90.90",
+      "codigo_sin_puntos": "84089090",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8410.11.00",
+      "codigo_sin_puntos": "84101100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8410.12.00",
+      "codigo_sin_puntos": "84101200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8410.13.00",
+      "codigo_sin_puntos": "84101300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8410.90.00",
+      "codigo_sin_puntos": "84109000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8412.90.10",
+      "codigo_sin_puntos": "84129010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8413.11.00",
+      "codigo_sin_puntos": "84131100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8413.40.00",
+      "codigo_sin_puntos": "84134000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.30.99",
+      "codigo_sin_puntos": "84143099",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.40.10",
+      "codigo_sin_puntos": "84144010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.40.20",
+      "codigo_sin_puntos": "84144020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.40.90",
+      "codigo_sin_puntos": "84144090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.11",
+      "codigo_sin_puntos": "84148011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.12",
+      "codigo_sin_puntos": "84148012",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.13",
+      "codigo_sin_puntos": "84148013",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.19",
+      "codigo_sin_puntos": "84148019",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.31",
+      "codigo_sin_puntos": "84148031",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.32",
+      "codigo_sin_puntos": "84148032",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.33",
+      "codigo_sin_puntos": "84148033",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.39",
+      "codigo_sin_puntos": "84148039",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8414.80.90",
+      "codigo_sin_puntos": "84148090",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 1
+    },
+    {
+      "ncm": "8415.10.90",
+      "codigo_sin_puntos": "84151090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8415.81.90",
+      "codigo_sin_puntos": "84158190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8415.82.90",
+      "codigo_sin_puntos": "84158290",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8415.83.00",
+      "codigo_sin_puntos": "84158300",
+      "referencia": "(2); (9) y (10)",
+      "referencia_texto": "(2) Excepto unidades compactas prefabricadas, sin unidad condensadora. (9) Solamente cuando se destinen a equipos de aire acondicionado de más de 30.000 frigorías/h. (10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8417.10.10",
+      "codigo_sin_puntos": "84171010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8417.10.20",
+      "codigo_sin_puntos": "84171020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8417.10.90",
+      "codigo_sin_puntos": "84171090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8417.20.00",
+      "codigo_sin_puntos": "84172000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8417.80.10",
+      "codigo_sin_puntos": "84178010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8417.80.90",
+      "codigo_sin_puntos": "84178090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8418.50.10",
+      "codigo_sin_puntos": "84185010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8418.50.90",
+      "codigo_sin_puntos": "84185090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8418.61.00",
+      "codigo_sin_puntos": "84186100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8418.69.10",
+      "codigo_sin_puntos": "84186910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8418.69.20",
+      "codigo_sin_puntos": "84186920",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8418.69.99",
+      "codigo_sin_puntos": "84186999",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.20.00",
+      "codigo_sin_puntos": "84192000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.31.00",
+      "codigo_sin_puntos": "84193100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.32.00",
+      "codigo_sin_puntos": "84193200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.39.00",
+      "codigo_sin_puntos": "84193900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.40.10",
+      "codigo_sin_puntos": "84194010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.40.20",
+      "codigo_sin_puntos": "84194020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.40.90",
+      "codigo_sin_puntos": "84194090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.50.10",
+      "codigo_sin_puntos": "84195010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.50.21",
+      "codigo_sin_puntos": "84195021",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.50.22",
+      "codigo_sin_puntos": "84195022",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.50.29",
+      "codigo_sin_puntos": "84195029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.50.90",
+      "codigo_sin_puntos": "84195090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.60.00",
+      "codigo_sin_puntos": "84196000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.81.10",
+      "codigo_sin_puntos": "84198110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.81.90",
+      "codigo_sin_puntos": "84198190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.89.19",
+      "codigo_sin_puntos": "84198919",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.89.20",
+      "codigo_sin_puntos": "84198920",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.89.30",
+      "codigo_sin_puntos": "84198930",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.89.40",
+      "codigo_sin_puntos": "84198940",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.89.91",
+      "codigo_sin_puntos": "84198991",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8419.89.99",
+      "codigo_sin_puntos": "84198999",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8420.10.10",
+      "codigo_sin_puntos": "84201010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8420.10.90",
+      "codigo_sin_puntos": "84201090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.11.90",
+      "codigo_sin_puntos": "84211190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.12.90",
+      "codigo_sin_puntos": "84211290",
+      "referencia": "(3)",
+      "referencia_texto": "(3) Excepto las con capacidad, expresada en peso de ropa seca, inferior o igual a 8,5 kg.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.19.10",
+      "codigo_sin_puntos": "84211910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.19.90",
+      "codigo_sin_puntos": "84211990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.21.00",
+      "codigo_sin_puntos": "84212100",
+      "referencia": "(4)",
+      "referencia_texto": "(4) Excepto de uso doméstico.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.22.00",
+      "codigo_sin_puntos": "84212200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.29.20",
+      "codigo_sin_puntos": "84212920",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.29.30",
+      "codigo_sin_puntos": "84212930",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8421.39.10",
+      "codigo_sin_puntos": "84213910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8422.19.00",
+      "codigo_sin_puntos": "84221900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8422.20.00",
+      "codigo_sin_puntos": "84222000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8422.30.10",
+      "codigo_sin_puntos": "84223010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 2
+    },
+    {
+      "ncm": "8422.30.21",
+      "codigo_sin_puntos": "84223021",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8422.30.29",
+      "codigo_sin_puntos": "84223029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8422.30.30",
+      "codigo_sin_puntos": "84223030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8422.40.90",
+      "codigo_sin_puntos": "84224090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.20.00",
+      "codigo_sin_puntos": "84232000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.30.11",
+      "codigo_sin_puntos": "84233011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.30.19",
+      "codigo_sin_puntos": "84233019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.30.90",
+      "codigo_sin_puntos": "84233090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.81.10",
+      "codigo_sin_puntos": "84238110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.81.90",
+      "codigo_sin_puntos": "84238190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.82.00",
+      "codigo_sin_puntos": "84238200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8423.89.00",
+      "codigo_sin_puntos": "84238900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.20.00",
+      "codigo_sin_puntos": "84242000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.30.10",
+      "codigo_sin_puntos": "84243010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.30.90",
+      "codigo_sin_puntos": "84243090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.49.00",
+      "codigo_sin_puntos": "84244900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.82.21",
+      "codigo_sin_puntos": "84248221",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.82.29",
+      "codigo_sin_puntos": "84248229",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.82.90",
+      "codigo_sin_puntos": "84248290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8424.89.90",
+      "codigo_sin_puntos": "84248990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.11.00",
+      "codigo_sin_puntos": "84251100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.19.90",
+      "codigo_sin_puntos": "84251990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.31.10",
+      "codigo_sin_puntos": "84253110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.31.90",
+      "codigo_sin_puntos": "84253190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.39.10",
+      "codigo_sin_puntos": "84253910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.39.90",
+      "codigo_sin_puntos": "84253990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.41.00",
+      "codigo_sin_puntos": "84254100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8425.49.90",
+      "codigo_sin_puntos": "84254990",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.11.00",
+      "codigo_sin_puntos": "84261100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.12.00",
+      "codigo_sin_puntos": "84261200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.19.00",
+      "codigo_sin_puntos": "84261900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.20.00",
+      "codigo_sin_puntos": "84262000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.30.00",
+      "codigo_sin_puntos": "84263000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.41.90",
+      "codigo_sin_puntos": "84264190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.49.90",
+      "codigo_sin_puntos": "84264990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8426.99.00",
+      "codigo_sin_puntos": "84269900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8427.10.11",
+      "codigo_sin_puntos": "84271011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8427.10.19",
+      "codigo_sin_puntos": "84271019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8427.10.90",
+      "codigo_sin_puntos": "84271090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8427.20.10",
+      "codigo_sin_puntos": "84272010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8427.20.90",
+      "codigo_sin_puntos": "84272090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8427.90.00",
+      "codigo_sin_puntos": "84279000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.10.00",
+      "codigo_sin_puntos": "84281000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.20.10",
+      "codigo_sin_puntos": "84282010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.20.90",
+      "codigo_sin_puntos": "84282090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.31.00",
+      "codigo_sin_puntos": "84283100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.32.00",
+      "codigo_sin_puntos": "84283200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.33.00",
+      "codigo_sin_puntos": "84283300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.39.10",
+      "codigo_sin_puntos": "84283910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.39.20",
+      "codigo_sin_puntos": "84283920",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.39.90",
+      "codigo_sin_puntos": "84283990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 3
+    },
+    {
+      "ncm": "8428.40.00",
+      "codigo_sin_puntos": "84284000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8428.60.00",
+      "codigo_sin_puntos": "84286000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8428.90.10",
+      "codigo_sin_puntos": "84289010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8428.90.90",
+      "codigo_sin_puntos": "84289090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.11.10",
+      "codigo_sin_puntos": "84291110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.11.90",
+      "codigo_sin_puntos": "84291190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.19.10",
+      "codigo_sin_puntos": "84291910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.19.90",
+      "codigo_sin_puntos": "84291990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.20.10",
+      "codigo_sin_puntos": "84292010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.20.90",
+      "codigo_sin_puntos": "84292090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.30.00",
+      "codigo_sin_puntos": "84293000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.40.00",
+      "codigo_sin_puntos": "84294000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.11",
+      "codigo_sin_puntos": "84295111",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.19",
+      "codigo_sin_puntos": "84295119",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.21",
+      "codigo_sin_puntos": "84295121",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.29",
+      "codigo_sin_puntos": "84295129",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.91",
+      "codigo_sin_puntos": "84295191",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.92",
+      "codigo_sin_puntos": "84295192",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.51.99",
+      "codigo_sin_puntos": "84295199",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.52.11",
+      "codigo_sin_puntos": "84295211",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.52.12",
+      "codigo_sin_puntos": "84295212",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.52.19",
+      "codigo_sin_puntos": "84295219",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.52.90",
+      "codigo_sin_puntos": "84295290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8429.59.00",
+      "codigo_sin_puntos": "84295900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.10.00",
+      "codigo_sin_puntos": "84301000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.20.00",
+      "codigo_sin_puntos": "84302000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.31.10",
+      "codigo_sin_puntos": "84303110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.31.90",
+      "codigo_sin_puntos": "84303190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.39.90",
+      "codigo_sin_puntos": "84303990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.41.10",
+      "codigo_sin_puntos": "84304110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.41.20",
+      "codigo_sin_puntos": "84304120",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.41.30",
+      "codigo_sin_puntos": "84304130",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.41.90",
+      "codigo_sin_puntos": "84304190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.49.10",
+      "codigo_sin_puntos": "84304910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.49.90",
+      "codigo_sin_puntos": "84304990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.50.00",
+      "codigo_sin_puntos": "84305000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.61.00",
+      "codigo_sin_puntos": "84306100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8430.69.90",
+      "codigo_sin_puntos": "84306990",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.10.00",
+      "codigo_sin_puntos": "84321000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.21.00",
+      "codigo_sin_puntos": "84322100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.29.00",
+      "codigo_sin_puntos": "84322900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.31.10",
+      "codigo_sin_puntos": "84323110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.31.90",
+      "codigo_sin_puntos": "84323190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.39.10",
+      "codigo_sin_puntos": "84323910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.39.90",
+      "codigo_sin_puntos": "84323990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.41.00",
+      "codigo_sin_puntos": "84324100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.42.00",
+      "codigo_sin_puntos": "84324200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8432.80.00",
+      "codigo_sin_puntos": "84328000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8433.20.90",
+      "codigo_sin_puntos": "84332090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8433.30.00",
+      "codigo_sin_puntos": "84333000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8433.40.00",
+      "codigo_sin_puntos": "84334000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 4
+    },
+    {
+      "ncm": "8433.51.00",
+      "codigo_sin_puntos": "84335100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.52.00",
+      "codigo_sin_puntos": "84335200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.53.00",
+      "codigo_sin_puntos": "84335300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.59.11",
+      "codigo_sin_puntos": "84335911",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.59.19",
+      "codigo_sin_puntos": "84335919",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.59.90",
+      "codigo_sin_puntos": "84335990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.60.10",
+      "codigo_sin_puntos": "84336010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8433.60.90",
+      "codigo_sin_puntos": "84336090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8434.10.00",
+      "codigo_sin_puntos": "84341000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8434.20.10",
+      "codigo_sin_puntos": "84342010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8434.20.90",
+      "codigo_sin_puntos": "84342090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8435.10.00",
+      "codigo_sin_puntos": "84351000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8436.10.00",
+      "codigo_sin_puntos": "84361000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8436.21.00",
+      "codigo_sin_puntos": "84362100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8436.29.00",
+      "codigo_sin_puntos": "84362900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8436.80.00",
+      "codigo_sin_puntos": "84368000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8437.10.00",
+      "codigo_sin_puntos": "84371000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8437.80.10",
+      "codigo_sin_puntos": "84378010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8437.80.90",
+      "codigo_sin_puntos": "84378090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.10.00",
+      "codigo_sin_puntos": "84381000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.20.19",
+      "codigo_sin_puntos": "84382019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.20.90",
+      "codigo_sin_puntos": "84382090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.30.00",
+      "codigo_sin_puntos": "84383000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.40.00",
+      "codigo_sin_puntos": "84384000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.50.00",
+      "codigo_sin_puntos": "84385000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.60.00",
+      "codigo_sin_puntos": "84386000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.80.10",
+      "codigo_sin_puntos": "84388010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8438.80.90",
+      "codigo_sin_puntos": "84388090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.10.10",
+      "codigo_sin_puntos": "84391010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.10.20",
+      "codigo_sin_puntos": "84391020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.10.30",
+      "codigo_sin_puntos": "84391030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.10.90",
+      "codigo_sin_puntos": "84391090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.20.00",
+      "codigo_sin_puntos": "84392000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.30.10",
+      "codigo_sin_puntos": "84393010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.30.20",
+      "codigo_sin_puntos": "84393020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.30.30",
+      "codigo_sin_puntos": "84393030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.30.90",
+      "codigo_sin_puntos": "84393090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.91.00",
+      "codigo_sin_puntos": "84399100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8439.99.90",
+      "codigo_sin_puntos": "84399990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8440.10.19",
+      "codigo_sin_puntos": "84401019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8440.10.90",
+      "codigo_sin_puntos": "84401090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8440.90.00",
+      "codigo_sin_puntos": "84409000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.10.90",
+      "codigo_sin_puntos": "84411090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.20.00",
+      "codigo_sin_puntos": "84412000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.30.10",
+      "codigo_sin_puntos": "84413010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.30.90",
+      "codigo_sin_puntos": "84413090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.40.00",
+      "codigo_sin_puntos": "84414000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.80.00",
+      "codigo_sin_puntos": "84418000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8441.90.00",
+      "codigo_sin_puntos": "84419000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8442.30.10",
+      "codigo_sin_puntos": "84423010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8442.30.90",
+      "codigo_sin_puntos": "84423090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 5
+    },
+    {
+      "ncm": "8442.40.10",
+      "codigo_sin_puntos": "84424010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.11.90",
+      "codigo_sin_puntos": "84431190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.12.00",
+      "codigo_sin_puntos": "84431200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.13.29",
+      "codigo_sin_puntos": "84431329",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.13.90",
+      "codigo_sin_puntos": "84431390",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.15.00",
+      "codigo_sin_puntos": "84431500",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.16.00",
+      "codigo_sin_puntos": "84431600",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.17.10",
+      "codigo_sin_puntos": "84431710",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.17.90",
+      "codigo_sin_puntos": "84431790",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.19.10",
+      "codigo_sin_puntos": "84431910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.19.90",
+      "codigo_sin_puntos": "84431990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.39.10",
+      "codigo_sin_puntos": "84433910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.39.21",
+      "codigo_sin_puntos": "84433921",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.39.29",
+      "codigo_sin_puntos": "84433929",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.39.30",
+      "codigo_sin_puntos": "84433930",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.39.90",
+      "codigo_sin_puntos": "84433990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.91.91",
+      "codigo_sin_puntos": "84439191",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.91.92",
+      "codigo_sin_puntos": "84439192",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.91.99",
+      "codigo_sin_puntos": "84439199",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.99.31",
+      "codigo_sin_puntos": "84439931",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8443.99.39",
+      "codigo_sin_puntos": "84439939",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8444.00.10",
+      "codigo_sin_puntos": "84440010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.11.90",
+      "codigo_sin_puntos": "84451190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.19.21",
+      "codigo_sin_puntos": "84451921",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.19.22",
+      "codigo_sin_puntos": "84451922",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.19.23",
+      "codigo_sin_puntos": "84451923",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.19.29",
+      "codigo_sin_puntos": "84451929",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.30.90",
+      "codigo_sin_puntos": "84453090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.40.19",
+      "codigo_sin_puntos": "84454019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.40.29",
+      "codigo_sin_puntos": "84454029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.40.39",
+      "codigo_sin_puntos": "84454039",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.40.90",
+      "codigo_sin_puntos": "84454090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.90.10",
+      "codigo_sin_puntos": "84459010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.90.30",
+      "codigo_sin_puntos": "84459030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8445.90.90",
+      "codigo_sin_puntos": "84459090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8446.10.90",
+      "codigo_sin_puntos": "84461090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8446.21.00",
+      "codigo_sin_puntos": "84462100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8446.29.00",
+      "codigo_sin_puntos": "84462900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8446.30.90",
+      "codigo_sin_puntos": "84463090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8447.12.00",
+      "codigo_sin_puntos": "84471200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8447.20.29",
+      "codigo_sin_puntos": "84472029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8447.20.30",
+      "codigo_sin_puntos": "84472030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8447.90.90",
+      "codigo_sin_puntos": "84479090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.11.10",
+      "codigo_sin_puntos": "84481110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.11.90",
+      "codigo_sin_puntos": "84481190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.19.00",
+      "codigo_sin_puntos": "84481900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.20.20",
+      "codigo_sin_puntos": "84482020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.31.00",
+      "codigo_sin_puntos": "84483100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.32.11",
+      "codigo_sin_puntos": "84483211",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.32.19",
+      "codigo_sin_puntos": "84483219",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.32.30",
+      "codigo_sin_puntos": "84483230",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 6
+    },
+    {
+      "ncm": "8448.32.90",
+      "codigo_sin_puntos": "84483290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.33.10",
+      "codigo_sin_puntos": "84483310",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.33.90",
+      "codigo_sin_puntos": "84483390",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.11",
+      "codigo_sin_puntos": "84483911",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.17",
+      "codigo_sin_puntos": "84483917",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.19",
+      "codigo_sin_puntos": "84483919",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.23",
+      "codigo_sin_puntos": "84483923",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.29",
+      "codigo_sin_puntos": "84483929",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.91",
+      "codigo_sin_puntos": "84483991",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.39.99",
+      "codigo_sin_puntos": "84483999",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.42.00",
+      "codigo_sin_puntos": "84484200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.49.10",
+      "codigo_sin_puntos": "84484910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.49.90",
+      "codigo_sin_puntos": "84484990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.59.10",
+      "codigo_sin_puntos": "84485910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.59.29",
+      "codigo_sin_puntos": "84485929",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.59.40",
+      "codigo_sin_puntos": "84485940",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8448.59.90",
+      "codigo_sin_puntos": "84485990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8449.00.10",
+      "codigo_sin_puntos": "84490010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8449.00.80",
+      "codigo_sin_puntos": "84490080",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8449.00.99",
+      "codigo_sin_puntos": "84490099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8450.20.90",
+      "codigo_sin_puntos": "84502090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8450.90.10",
+      "codigo_sin_puntos": "84509010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.10.00",
+      "codigo_sin_puntos": "84511000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.29.90",
+      "codigo_sin_puntos": "84512990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.30.99",
+      "codigo_sin_puntos": "84513099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.40.10",
+      "codigo_sin_puntos": "84514010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.40.21",
+      "codigo_sin_puntos": "84514021",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.40.29",
+      "codigo_sin_puntos": "84514029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.40.90",
+      "codigo_sin_puntos": "84514090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.50.90",
+      "codigo_sin_puntos": "84515090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8451.80.00",
+      "codigo_sin_puntos": "84518000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8452.29.10",
+      "codigo_sin_puntos": "84522910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8452.29.29",
+      "codigo_sin_puntos": "84522929",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8452.29.90",
+      "codigo_sin_puntos": "84522990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8452.30.00",
+      "codigo_sin_puntos": "84523000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8452.90.91",
+      "codigo_sin_puntos": "84529091",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8452.90.99",
+      "codigo_sin_puntos": "84529099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8453.10.10",
+      "codigo_sin_puntos": "84531010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8453.10.90",
+      "codigo_sin_puntos": "84531090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8453.20.00",
+      "codigo_sin_puntos": "84532000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8453.80.00",
+      "codigo_sin_puntos": "84538000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8454.10.00",
+      "codigo_sin_puntos": "84541000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8454.20.10",
+      "codigo_sin_puntos": "84542010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8454.20.90",
+      "codigo_sin_puntos": "84542090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8454.30.10",
+      "codigo_sin_puntos": "84543010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8454.30.90",
+      "codigo_sin_puntos": "84543090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8455.10.00",
+      "codigo_sin_puntos": "84551000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8455.21.10",
+      "codigo_sin_puntos": "84552110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8455.21.90",
+      "codigo_sin_puntos": "84552190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8455.22.10",
+      "codigo_sin_puntos": "84552210",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8455.22.90",
+      "codigo_sin_puntos": "84552290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 7
+    },
+    {
+      "ncm": "8455.30.10",
+      "codigo_sin_puntos": "84553010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8455.30.90",
+      "codigo_sin_puntos": "84553090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.11.19",
+      "codigo_sin_puntos": "84561119",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.11.90",
+      "codigo_sin_puntos": "84561190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.12.19",
+      "codigo_sin_puntos": "84561219",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.12.90",
+      "codigo_sin_puntos": "84561290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.30.19",
+      "codigo_sin_puntos": "84563019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.30.90",
+      "codigo_sin_puntos": "84563090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.40.00",
+      "codigo_sin_puntos": "84564000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.50.00",
+      "codigo_sin_puntos": "84565000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8456.90.00",
+      "codigo_sin_puntos": "84569000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8457.10.00",
+      "codigo_sin_puntos": "84571000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8457.20.10",
+      "codigo_sin_puntos": "84572010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8457.20.90",
+      "codigo_sin_puntos": "84572090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8457.30.10",
+      "codigo_sin_puntos": "84573010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8457.30.90",
+      "codigo_sin_puntos": "84573090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8458.11.10",
+      "codigo_sin_puntos": "84581110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8458.11.99",
+      "codigo_sin_puntos": "84581199",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8458.19.10",
+      "codigo_sin_puntos": "84581910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8458.19.90",
+      "codigo_sin_puntos": "84581990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8458.91.00",
+      "codigo_sin_puntos": "84589100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8458.99.00",
+      "codigo_sin_puntos": "84589900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.10.00",
+      "codigo_sin_puntos": "84591000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.21.10",
+      "codigo_sin_puntos": "84592110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.21.91",
+      "codigo_sin_puntos": "84592191",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.21.99",
+      "codigo_sin_puntos": "84592199",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.29.00",
+      "codigo_sin_puntos": "84592900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.31.00",
+      "codigo_sin_puntos": "84593100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.39.00",
+      "codigo_sin_puntos": "84593900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.41.00",
+      "codigo_sin_puntos": "84594100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.49.00",
+      "codigo_sin_puntos": "84594900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.51.00",
+      "codigo_sin_puntos": "84595100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.59.00",
+      "codigo_sin_puntos": "84595900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.61.00",
+      "codigo_sin_puntos": "84596100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.69.00",
+      "codigo_sin_puntos": "84596900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8459.70.00",
+      "codigo_sin_puntos": "84597000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.12.00",
+      "codigo_sin_puntos": "84601200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.19.00",
+      "codigo_sin_puntos": "84601900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.22.00",
+      "codigo_sin_puntos": "84602200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.23.00",
+      "codigo_sin_puntos": "84602300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.24.00",
+      "codigo_sin_puntos": "84602400",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.29.00",
+      "codigo_sin_puntos": "84602900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.31.00",
+      "codigo_sin_puntos": "84603100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.39.00",
+      "codigo_sin_puntos": "84603900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.40.11",
+      "codigo_sin_puntos": "84604011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.40.19",
+      "codigo_sin_puntos": "84604019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.40.91",
+      "codigo_sin_puntos": "84604091",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.40.99",
+      "codigo_sin_puntos": "84604099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.90.19",
+      "codigo_sin_puntos": "84609019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8460.90.90",
+      "codigo_sin_puntos": "84609090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8461.20.10",
+      "codigo_sin_puntos": "84612010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 8
+    },
+    {
+      "ncm": "8461.20.90",
+      "codigo_sin_puntos": "84612090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.30.10",
+      "codigo_sin_puntos": "84613010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.30.90",
+      "codigo_sin_puntos": "84613090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.40.10",
+      "codigo_sin_puntos": "84614010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.40.91",
+      "codigo_sin_puntos": "84614091",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.40.99",
+      "codigo_sin_puntos": "84614099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.50.10",
+      "codigo_sin_puntos": "84615010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.50.20",
+      "codigo_sin_puntos": "84615020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.50.90",
+      "codigo_sin_puntos": "84615090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.90.10",
+      "codigo_sin_puntos": "84619010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8461.90.90",
+      "codigo_sin_puntos": "84619090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.10.11",
+      "codigo_sin_puntos": "84621011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.10.19",
+      "codigo_sin_puntos": "84621019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.10.90",
+      "codigo_sin_puntos": "84621090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.21.00",
+      "codigo_sin_puntos": "84622100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.29.00",
+      "codigo_sin_puntos": "84622900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.31.00",
+      "codigo_sin_puntos": "84623100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.39.10",
+      "codigo_sin_puntos": "84623910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.39.90",
+      "codigo_sin_puntos": "84623990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.41.00",
+      "codigo_sin_puntos": "84624100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.49.00",
+      "codigo_sin_puntos": "84624900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.91.11",
+      "codigo_sin_puntos": "84629111",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.91.19",
+      "codigo_sin_puntos": "84629119",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.91.91",
+      "codigo_sin_puntos": "84629191",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.91.99",
+      "codigo_sin_puntos": "84629199",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.99.10",
+      "codigo_sin_puntos": "84629910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.99.20",
+      "codigo_sin_puntos": "84629920",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8462.99.90",
+      "codigo_sin_puntos": "84629990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.10.10",
+      "codigo_sin_puntos": "84631010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.10.90",
+      "codigo_sin_puntos": "84631090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.20.10",
+      "codigo_sin_puntos": "84632010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.20.99",
+      "codigo_sin_puntos": "84632099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.30.00",
+      "codigo_sin_puntos": "84633000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.90.10",
+      "codigo_sin_puntos": "84639010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8463.90.90",
+      "codigo_sin_puntos": "84639090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8464.10.00",
+      "codigo_sin_puntos": "84641000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8464.20.10",
+      "codigo_sin_puntos": "84642010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8464.20.29",
+      "codigo_sin_puntos": "84642029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8464.20.90",
+      "codigo_sin_puntos": "84642090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8464.90.19",
+      "codigo_sin_puntos": "84649019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8464.90.90",
+      "codigo_sin_puntos": "84649090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.10.00",
+      "codigo_sin_puntos": "84651000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.20.00",
+      "codigo_sin_puntos": "84652000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.91.10",
+      "codigo_sin_puntos": "84659110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.91.20",
+      "codigo_sin_puntos": "84659120",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.91.90",
+      "codigo_sin_puntos": "84659190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.92.11",
+      "codigo_sin_puntos": "84659211",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.92.19",
+      "codigo_sin_puntos": "84659219",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.92.90",
+      "codigo_sin_puntos": "84659290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.93.10",
+      "codigo_sin_puntos": "84659310",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.93.90",
+      "codigo_sin_puntos": "84659390",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 9
+    },
+    {
+      "ncm": "8465.94.00",
+      "codigo_sin_puntos": "84659400",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8465.95.11",
+      "codigo_sin_puntos": "84659511",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8465.95.12",
+      "codigo_sin_puntos": "84659512",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8465.95.91",
+      "codigo_sin_puntos": "84659591",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8465.95.92",
+      "codigo_sin_puntos": "84659592",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8465.96.00",
+      "codigo_sin_puntos": "84659600",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8465.99.00",
+      "codigo_sin_puntos": "84659900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8466.93.19",
+      "codigo_sin_puntos": "84669319",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.11.10",
+      "codigo_sin_puntos": "84671110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.11.90",
+      "codigo_sin_puntos": "84671190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.19.00",
+      "codigo_sin_puntos": "84671900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.29.93",
+      "codigo_sin_puntos": "84672993",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.81.00",
+      "codigo_sin_puntos": "84678100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.89.00",
+      "codigo_sin_puntos": "84678900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8467.91.00",
+      "codigo_sin_puntos": "84679100",
+      "referencia": "(5)",
+      "referencia_texto": "(5) Excepto las partes de herramientas con motor eléctrico incorporado.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8468.20.00",
+      "codigo_sin_puntos": "84682000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8468.80.90",
+      "codigo_sin_puntos": "84688090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8470.50.90",
+      "codigo_sin_puntos": "84705090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8470.90.90",
+      "codigo_sin_puntos": "84709090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8472.10.00",
+      "codigo_sin_puntos": "84721000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8472.90.30",
+      "codigo_sin_puntos": "84729030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8472.90.91",
+      "codigo_sin_puntos": "84729091",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.10.00",
+      "codigo_sin_puntos": "84741000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.20.10",
+      "codigo_sin_puntos": "84742010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.20.90",
+      "codigo_sin_puntos": "84742090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.31.00",
+      "codigo_sin_puntos": "84743100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.32.00",
+      "codigo_sin_puntos": "84743200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.39.00",
+      "codigo_sin_puntos": "84743900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.80.10",
+      "codigo_sin_puntos": "84748010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8474.80.90",
+      "codigo_sin_puntos": "84748090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8475.21.00",
+      "codigo_sin_puntos": "84752100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8475.29.10",
+      "codigo_sin_puntos": "84752910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8475.29.90",
+      "codigo_sin_puntos": "84752990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8475.90.00",
+      "codigo_sin_puntos": "84759000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8476.21.00",
+      "codigo_sin_puntos": "84762100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8476.29.00",
+      "codigo_sin_puntos": "84762900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8476.81.00",
+      "codigo_sin_puntos": "84768100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8476.89.90",
+      "codigo_sin_puntos": "84768990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8476.90.00",
+      "codigo_sin_puntos": "84769000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.10.11",
+      "codigo_sin_puntos": "84771011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.10.19",
+      "codigo_sin_puntos": "84771019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.10.21",
+      "codigo_sin_puntos": "84771021",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.10.29",
+      "codigo_sin_puntos": "84771029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.10.91",
+      "codigo_sin_puntos": "84771091",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.10.99",
+      "codigo_sin_puntos": "84771099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.20.10",
+      "codigo_sin_puntos": "84772010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.20.90",
+      "codigo_sin_puntos": "84772090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.30.10",
+      "codigo_sin_puntos": "84773010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.30.90",
+      "codigo_sin_puntos": "84773090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.40.90",
+      "codigo_sin_puntos": "84774090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.51.00",
+      "codigo_sin_puntos": "84775100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 10
+    },
+    {
+      "ncm": "8477.59.11",
+      "codigo_sin_puntos": "84775911",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8477.59.19",
+      "codigo_sin_puntos": "84775919",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8477.59.90",
+      "codigo_sin_puntos": "84775990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8477.80.10",
+      "codigo_sin_puntos": "84778010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8477.80.90",
+      "codigo_sin_puntos": "84778090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8478.10.10",
+      "codigo_sin_puntos": "84781010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8478.10.90",
+      "codigo_sin_puntos": "84781090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8478.90.00",
+      "codigo_sin_puntos": "84789000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.10.10",
+      "codigo_sin_puntos": "84791010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.10.90",
+      "codigo_sin_puntos": "84791090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.20.00",
+      "codigo_sin_puntos": "84792000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.30.00",
+      "codigo_sin_puntos": "84793000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.40.00",
+      "codigo_sin_puntos": "84794000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.50.00",
+      "codigo_sin_puntos": "84795000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.60.00",
+      "codigo_sin_puntos": "84796000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.81.90",
+      "codigo_sin_puntos": "84798190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.82.10",
+      "codigo_sin_puntos": "84798210",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.82.90",
+      "codigo_sin_puntos": "84798290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.89.11",
+      "codigo_sin_puntos": "84798911",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.89.12",
+      "codigo_sin_puntos": "84798912",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.89.40",
+      "codigo_sin_puntos": "84798940",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.89.91",
+      "codigo_sin_puntos": "84798991",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.89.92",
+      "codigo_sin_puntos": "84798992",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8479.89.99",
+      "codigo_sin_puntos": "84798999",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.10.00",
+      "codigo_sin_puntos": "84801000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.20.00",
+      "codigo_sin_puntos": "84802000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.30.00",
+      "codigo_sin_puntos": "84803000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.41.00",
+      "codigo_sin_puntos": "84804100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.49.10",
+      "codigo_sin_puntos": "84804910",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.49.90",
+      "codigo_sin_puntos": "84804990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.50.00",
+      "codigo_sin_puntos": "84805000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.60.00",
+      "codigo_sin_puntos": "84806000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.71.00",
+      "codigo_sin_puntos": "84807100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8480.79.00",
+      "codigo_sin_puntos": "84807900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8486.10.00",
+      "codigo_sin_puntos": "84861000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8486.20.00",
+      "codigo_sin_puntos": "84862000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8486.30.00",
+      "codigo_sin_puntos": "84863000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8486.40.00",
+      "codigo_sin_puntos": "84864000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.33.10",
+      "codigo_sin_puntos": "85013310",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.33.20",
+      "codigo_sin_puntos": "85013320",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.34.11",
+      "codigo_sin_puntos": "85013411",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.34.20",
+      "codigo_sin_puntos": "85013420",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.52.10",
+      "codigo_sin_puntos": "85015210",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.52.20",
+      "codigo_sin_puntos": "85015220",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.52.90",
+      "codigo_sin_puntos": "85015290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.53.10",
+      "codigo_sin_puntos": "85015310",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.53.20",
+      "codigo_sin_puntos": "85015320",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.61.00",
+      "codigo_sin_puntos": "85016100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.62.00",
+      "codigo_sin_puntos": "85016200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.63.00",
+      "codigo_sin_puntos": "85016300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8501.64.00",
+      "codigo_sin_puntos": "85016400",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 11
+    },
+    {
+      "ncm": "8502.11.10",
+      "codigo_sin_puntos": "85021110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.11.90",
+      "codigo_sin_puntos": "85021190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.12.10",
+      "codigo_sin_puntos": "85021210",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.12.90",
+      "codigo_sin_puntos": "85021290",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.13.11",
+      "codigo_sin_puntos": "85021311",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.13.19",
+      "codigo_sin_puntos": "85021319",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.13.90",
+      "codigo_sin_puntos": "85021390",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.20.11",
+      "codigo_sin_puntos": "85022011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.20.90",
+      "codigo_sin_puntos": "85022090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.40.10",
+      "codigo_sin_puntos": "85024010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8502.40.90",
+      "codigo_sin_puntos": "85024090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8504.21.00",
+      "codigo_sin_puntos": "85042100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8504.22.00",
+      "codigo_sin_puntos": "85042200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8504.23.00",
+      "codigo_sin_puntos": "85042300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8504.33.00",
+      "codigo_sin_puntos": "85043300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8504.34.00",
+      "codigo_sin_puntos": "85043400",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8508.60.00",
+      "codigo_sin_puntos": "85086000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.10.10",
+      "codigo_sin_puntos": "85141010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.10.90",
+      "codigo_sin_puntos": "85141090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.20.11",
+      "codigo_sin_puntos": "85142011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.20.19",
+      "codigo_sin_puntos": "85142019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.20.20",
+      "codigo_sin_puntos": "85142020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.30.11",
+      "codigo_sin_puntos": "85143011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.30.19",
+      "codigo_sin_puntos": "85143019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.30.21",
+      "codigo_sin_puntos": "85143021",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.30.29",
+      "codigo_sin_puntos": "85143029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.30.90",
+      "codigo_sin_puntos": "85143090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8514.40.00",
+      "codigo_sin_puntos": "85144000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.11.00",
+      "codigo_sin_puntos": "85151100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.19.00",
+      "codigo_sin_puntos": "85151900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.21.00",
+      "codigo_sin_puntos": "85152100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.29.00",
+      "codigo_sin_puntos": "85152900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.31.90",
+      "codigo_sin_puntos": "85153190",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.39.00",
+      "codigo_sin_puntos": "85153900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8515.80.90",
+      "codigo_sin_puntos": "85158090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8530.10.90",
+      "codigo_sin_puntos": "85301090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8530.80.90",
+      "codigo_sin_puntos": "85308090",
+      "referencia": "(10)",
+      "referencia_texto": "(10) En la medida que la comercialización de dichas mercaderías nuevas no tuviera como destino su utilización en actividades del sector automotriz.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8543.20.00",
+      "codigo_sin_puntos": "85432000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8543.30.00",
+      "codigo_sin_puntos": "85433000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8601.10.00",
+      "codigo_sin_puntos": "86011000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8601.20.00",
+      "codigo_sin_puntos": "86012000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8602.10.00",
+      "codigo_sin_puntos": "86021000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8602.90.00",
+      "codigo_sin_puntos": "86029000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8603.10.00",
+      "codigo_sin_puntos": "86031000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8603.90.00",
+      "codigo_sin_puntos": "86039000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8604.00.90",
+      "codigo_sin_puntos": "86040090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8605.00.10",
+      "codigo_sin_puntos": "86050010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8605.00.90",
+      "codigo_sin_puntos": "86050090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8606.10.00",
+      "codigo_sin_puntos": "86061000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8606.30.00",
+      "codigo_sin_puntos": "86063000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8606.91.00",
+      "codigo_sin_puntos": "86069100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 12
+    },
+    {
+      "ncm": "8606.92.00",
+      "codigo_sin_puntos": "86069200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8606.99.00",
+      "codigo_sin_puntos": "86069900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.11.10",
+      "codigo_sin_puntos": "86071110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.12.00",
+      "codigo_sin_puntos": "86071200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.21.00",
+      "codigo_sin_puntos": "86072100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.29.00",
+      "codigo_sin_puntos": "86072900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.30.00",
+      "codigo_sin_puntos": "86073000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.91.00",
+      "codigo_sin_puntos": "86079100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8607.99.00",
+      "codigo_sin_puntos": "86079900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8609.00.00",
+      "codigo_sin_puntos": "86090000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.10.00",
+      "codigo_sin_puntos": "87011000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.30.00",
+      "codigo_sin_puntos": "87013000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.91.00",
+      "codigo_sin_puntos": "87019100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.92.00",
+      "codigo_sin_puntos": "87019200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.93.00",
+      "codigo_sin_puntos": "87019300",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.94.10",
+      "codigo_sin_puntos": "87019410",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.94.90",
+      "codigo_sin_puntos": "87019490",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.95.10",
+      "codigo_sin_puntos": "87019510",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8701.95.90",
+      "codigo_sin_puntos": "87019590",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8706.00.20",
+      "codigo_sin_puntos": "87060020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8707.90.10",
+      "codigo_sin_puntos": "87079010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8707.90.90",
+      "codigo_sin_puntos": "87079090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8709.11.00",
+      "codigo_sin_puntos": "87091100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8709.19.00",
+      "codigo_sin_puntos": "87091900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8716.20.00",
+      "codigo_sin_puntos": "87162000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8716.31.00",
+      "codigo_sin_puntos": "87163100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8716.39.00",
+      "codigo_sin_puntos": "87163900",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8716.40.00",
+      "codigo_sin_puntos": "87164000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8901.10.00",
+      "codigo_sin_puntos": "89011000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8901.20.00",
+      "codigo_sin_puntos": "89012000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8901.30.00",
+      "codigo_sin_puntos": "89013000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8901.90.00",
+      "codigo_sin_puntos": "89019000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8902.00.10",
+      "codigo_sin_puntos": "89020010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8902.00.90",
+      "codigo_sin_puntos": "89020090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8904.00.00",
+      "codigo_sin_puntos": "89040000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8905.10.00",
+      "codigo_sin_puntos": "89051000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8905.20.00",
+      "codigo_sin_puntos": "89052000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8905.90.00",
+      "codigo_sin_puntos": "89059000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8906.10.00",
+      "codigo_sin_puntos": "89061000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8906.90.00",
+      "codigo_sin_puntos": "89069000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8907.10.00",
+      "codigo_sin_puntos": "89071000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "8907.90.00",
+      "codigo_sin_puntos": "89079000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9005.80.00",
+      "codigo_sin_puntos": "90058000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9006.30.00",
+      "codigo_sin_puntos": "90063000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9006.59.30",
+      "codigo_sin_puntos": "90065930",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9007.92.00",
+      "codigo_sin_puntos": "90079200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9010.10.90",
+      "codigo_sin_puntos": "90101090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9010.90.10",
+      "codigo_sin_puntos": "90109010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9011.10.00",
+      "codigo_sin_puntos": "90111000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9011.80.90",
+      "codigo_sin_puntos": "90118090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9011.90.90",
+      "codigo_sin_puntos": "90119090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 13
+    },
+    {
+      "ncm": "9012.10.90",
+      "codigo_sin_puntos": "90121090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9012.90.90",
+      "codigo_sin_puntos": "90129090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9013.10.90",
+      "codigo_sin_puntos": "90131090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9013.20.00",
+      "codigo_sin_puntos": "90132000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9013.90.00",
+      "codigo_sin_puntos": "90139000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9014.10.00",
+      "codigo_sin_puntos": "90141000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9014.80.10",
+      "codigo_sin_puntos": "90148010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9014.80.90",
+      "codigo_sin_puntos": "90148090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9014.90.00",
+      "codigo_sin_puntos": "90149000",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.10.00",
+      "codigo_sin_puntos": "90151000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.20.10",
+      "codigo_sin_puntos": "90152010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.20.90",
+      "codigo_sin_puntos": "90152090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.30.00",
+      "codigo_sin_puntos": "90153000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.80.10",
+      "codigo_sin_puntos": "90158010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.80.90",
+      "codigo_sin_puntos": "90158090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9015.90.90",
+      "codigo_sin_puntos": "90159090",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9016.00.10",
+      "codigo_sin_puntos": "90160010",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9016.00.90",
+      "codigo_sin_puntos": "90160090",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.11.00",
+      "codigo_sin_puntos": "90181100",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.12.90",
+      "codigo_sin_puntos": "90181290",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.14.90",
+      "codigo_sin_puntos": "90181490",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.19.20",
+      "codigo_sin_puntos": "90181920",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.19.80",
+      "codigo_sin_puntos": "90181980",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.20.90",
+      "codigo_sin_puntos": "90182090",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.41.00",
+      "codigo_sin_puntos": "90184100",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.50.90",
+      "codigo_sin_puntos": "90185090",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.90.10",
+      "codigo_sin_puntos": "90189010",
+      "referencia": "(1) y (6)",
+      "referencia_texto": "(1) Excepto partes. (6) Excepto bolsa y tubuladuras de material plástico, incluso con vías de acceso lateral, dosificador mecánico automático, dispositivos de obturación y piezas insersoras en ambos extremos presentado en una envuelta estéril.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.90.39",
+      "codigo_sin_puntos": "90189039",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.90.40",
+      "codigo_sin_puntos": "90189040",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.90.50",
+      "codigo_sin_puntos": "90189050",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9018.90.91",
+      "codigo_sin_puntos": "90189091",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9019.10.00",
+      "codigo_sin_puntos": "90191000",
+      "referencia": "(1) y (7)",
+      "referencia_texto": "(1) Excepto partes. (7) Excepto bañeras para hidromasaje.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9019.20.10",
+      "codigo_sin_puntos": "90192010",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9019.20.20",
+      "codigo_sin_puntos": "90192020",
+      "referencia": "(1) y (8)",
+      "referencia_texto": "(1) Excepto partes. (8) Excepto de potencia inferior o igual a 125 W.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9019.20.30",
+      "codigo_sin_puntos": "90192030",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9019.20.40",
+      "codigo_sin_puntos": "90192040",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9019.20.90",
+      "codigo_sin_puntos": "90192090",
+      "referencia": "(1)",
+      "referencia_texto": "(1) Excepto partes.",
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.13.19",
+      "codigo_sin_puntos": "90221319",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.14.11",
+      "codigo_sin_puntos": "90221411",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.14.19",
+      "codigo_sin_puntos": "90221419",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.19.91",
+      "codigo_sin_puntos": "90221991",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.21.10",
+      "codigo_sin_puntos": "90222110",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.29.90",
+      "codigo_sin_puntos": "90222990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.90.11",
+      "codigo_sin_puntos": "90229011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.90.12",
+      "codigo_sin_puntos": "90229012",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.90.19",
+      "codigo_sin_puntos": "90229019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9022.90.80",
+      "codigo_sin_puntos": "90229080",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9024.10.10",
+      "codigo_sin_puntos": "90241010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9024.10.20",
+      "codigo_sin_puntos": "90241020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9024.10.90",
+      "codigo_sin_puntos": "90241090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9024.80.19",
+      "codigo_sin_puntos": "90248019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 14
+    },
+    {
+      "ncm": "9024.80.29",
+      "codigo_sin_puntos": "90248029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9024.80.90",
+      "codigo_sin_puntos": "90248090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9024.90.00",
+      "codigo_sin_puntos": "90249000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.10.00",
+      "codigo_sin_puntos": "90271000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.20.29",
+      "codigo_sin_puntos": "90272029",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.30.19",
+      "codigo_sin_puntos": "90273019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.30.20",
+      "codigo_sin_puntos": "90273020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.50.10",
+      "codigo_sin_puntos": "90275010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.50.20",
+      "codigo_sin_puntos": "90275020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.50.30",
+      "codigo_sin_puntos": "90275030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.50.40",
+      "codigo_sin_puntos": "90275040",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.50.90",
+      "codigo_sin_puntos": "90275090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.80.12",
+      "codigo_sin_puntos": "90278012",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.80.13",
+      "codigo_sin_puntos": "90278013",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.80.14",
+      "codigo_sin_puntos": "90278014",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.80.20",
+      "codigo_sin_puntos": "90278020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9027.80.99",
+      "codigo_sin_puntos": "90278099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9028.10.11",
+      "codigo_sin_puntos": "90281011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9028.10.19",
+      "codigo_sin_puntos": "90281019",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.10.10",
+      "codigo_sin_puntos": "90301010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.10.90",
+      "codigo_sin_puntos": "90301090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.31.00",
+      "codigo_sin_puntos": "90303100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.32.00",
+      "codigo_sin_puntos": "90303200",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.39.90",
+      "codigo_sin_puntos": "90303990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.84.90",
+      "codigo_sin_puntos": "90308490",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9030.90.10",
+      "codigo_sin_puntos": "90309010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.10.00",
+      "codigo_sin_puntos": "90311000",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.20.10",
+      "codigo_sin_puntos": "90312010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.20.90",
+      "codigo_sin_puntos": "90312090",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.41.00",
+      "codigo_sin_puntos": "90314100",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.49.90",
+      "codigo_sin_puntos": "90314990",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.80.11",
+      "codigo_sin_puntos": "90318011",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.80.12",
+      "codigo_sin_puntos": "90318012",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.80.20",
+      "codigo_sin_puntos": "90318020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.80.30",
+      "codigo_sin_puntos": "90318030",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.80.91",
+      "codigo_sin_puntos": "90318091",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9031.80.99",
+      "codigo_sin_puntos": "90318099",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9402.90.10",
+      "codigo_sin_puntos": "94029010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9402.90.20",
+      "codigo_sin_puntos": "94029020",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9406.10.10",
+      "codigo_sin_puntos": "94061010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    },
+    {
+      "ncm": "9406.90.10",
+      "codigo_sin_puntos": "94069010",
+      "referencia": null,
+      "referencia_texto": null,
+      "es_bien_de_capital": true,
+      "pagina_pdf": 15
+    }
+  ]
+}

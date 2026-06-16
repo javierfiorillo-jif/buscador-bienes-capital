@@ -1,0 +1,24 @@
+@echo off
+chcp 65001 >nul
+echo.
+echo  Buscador de Bienes de Capital - Setup GitHub
+echo.
+set /p USER=Tu usuario de GitHub: 
+set /p REPO=Nombre del repo [buscador-bienes-capital]: 
+if "%REPO%"=="" set REPO=buscador-bienes-capital
+echo.
+echo   Usuario: %USER%
+echo   Repo:    %REPO%
+echo.
+set /p OK=Correcto? (S/N): 
+if /I not "%OK%"=="S" (echo Cancelado. & pause & exit /b)
+git init
+echo. > .nojekyll
+git add .
+git commit -m "Buscador Bienes de Capital - Decreto 379/01"
+git branch -M main
+git remote add origin https://github.com/%USER%/%REPO%.git
+git push -u origin main
+echo.
+echo Listo! Ahora Settings - Pages - GitHub Actions - Static HTML - Commit
+pause
